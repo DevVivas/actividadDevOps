@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo aplicar prácticas de **DevOps** para automati
 ---
 
 ## Objetivos
-- Hacer un Readme y 2 md mas a eleccion.
-- Hacer un Workflow
+* Hacer un Readme y 2 md mas a eleccion.
+* Hacer un Workflow
 
 ---

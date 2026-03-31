@@ -1,14 +1,37 @@
 # Actividad DevOps - 3er Semestre
 
-## Descripcion
+---
 
-    Este proyecto tiene como objetivo aplicar prácticas de **DevOps** para automatizar procesos de desarrollo, integración y despliegue continuo.
+## 📌 Descripción
+
+Este proyecto tiene como objetivo aplicar prácticas de **DevOps** para automatizar procesos de desarrollo, integración y despliegue continuo.
 
 ---
 
-## Objetivos
+## 🎯 Objetivos
 
-    * Hacer un Readme y 2 md mas a eleccion.
-    * Hacer un Workflow
+- Crear un README
+- Crear dos archivos adicionales en formato Markdown
+- Implementar un workflow con GitHub Actions
 
 ---
+
+## ⚙️ Tecnologías utilizadas
+
+- Git y GitHub
+- GitHub Actions
+- Markdown
+
+---
+
+## 🚀 Workflow implementado
+
+Se configuró un workflow que:
+
+- Se ejecuta en cada `push` y `pull_request`
+- Realiza validación de archivos Markdown
+- Utiliza markdownlint para asegurar buenas prácticas
+
+---
+
+## 📁 Estructura del proyecto

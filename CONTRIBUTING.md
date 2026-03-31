@@ -1,6 +1,7 @@
 # Guia de Contribución 
 
 Queremos mantener un entorno colaborativo, claro y profesional.
+
 ## ¿Como puedo contribuir?
 
 Puedes contribuir de varias formas:
@@ -17,3 +18,4 @@ Puedes contribuir de varias formas:
 ```bash
 git clone https://github.com/tu-usuario/tu-repo.git
 cd tu-repo
+```

@@ -15,7 +15,7 @@ Puedes contribuir de varias formas:
 
 ### Clonar
 
-```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
-```
+    ```bash
+    git clone https://github.com/tu-usuario/tu-repo.git
+    cd tu-repo
+    ```

@@ -22,4 +22,4 @@ No se tolerara:
 
 ## Autor
 
-  **Abrahan Vivas**
+  Abrahan Vivas

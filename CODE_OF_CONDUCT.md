@@ -18,7 +18,7 @@ No se tolerara:
 
 ---
 
-## Autor
+### Autor
 
 *Abrahan Vivas*
  

@@ -1,25 +1,27 @@
-# Codigo de Conducta
-
-## Comportamiento Esperado
-
-Se espera que todos los participantes:  
-
-  * Sean respetuosos y amables con los demás
-  * Acepten críticas constructivas de manera profesional
-  * Den feedback claro y útil
+# Código de Conducta
 
 ---
 
-## Comportamiento Inaceptable
+## 🤝 Comportamiento Esperado
 
-No se tolerara:
+Se espera que todos los participantes:
 
-  * Lenguaje ofensivo o discriminatorio
-  * Ataques personales o insultos
-  * Acoso o comportamiento intimidante 
+- Sean respetuosos y amables con los demás
+- Acepten críticas constructivas de manera profesional
+- Den feedback claro y útil
 
 ---
 
-## Autor
+## 🚫 Comportamiento Inaceptable
 
-  Abrahan Vivas
+No se tolerará:
+
+- Lenguaje ofensivo o discriminatorio
+- Ataques personales o insultos
+- Acoso o comportamiento intimidante
+
+---
+
+## 👨‍💻 Autor
+
+Abrahan Vivas

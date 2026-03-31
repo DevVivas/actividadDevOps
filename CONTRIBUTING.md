@@ -1,6 +1,6 @@
 # Guia de Contribución 
 
-    Queremos mantener un entorno colaborativo, claro y profesional.
+    >Queremos mantener un entorno colaborativo, claro y profesional.
 
 ## ¿Como puedo contribuir?
 

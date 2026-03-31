@@ -19,8 +19,3 @@ No se tolerará:
 - Lenguaje ofensivo o discriminatorio
 - Ataques personales o insultos
 - Acoso o comportamiento intimidante
-
----
-
-## 👨‍💻 Autor
-Abrahan Vivas

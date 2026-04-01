@@ -1,4 +1,4 @@
-# Guia de Contribucion 
+# Guia de Contribucion
 
     >Queremos mantener un entorno colaborativo, claro y profesional.
 
